@@ -11,7 +11,7 @@ Youtube Channels:<br>
 -<a href="https://www.youtube.com/c/RainIsHere">Rain is here financial buddy</a><br>
 -<a href="https://www.youtube.com/channel/UCmMnzrvnsSnv-0u9M1Rxiqw">The World Today</a><br>
 
-Resources:
+Resources:<br>
 -<a href="https://finance.yahoo.com/">Yahoo Finance</a><br>
 -<a href="https://www.investopedia.com/">Investopedia</a><br>
 -<a href="https://www.tradingview.com/">Trading View</a><br>
