@@ -7,11 +7,9 @@ Reading: <br>
 -<a href="https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=asc_df_1612680194/?tag=hyprod-20&linkCode=df0&hvadid=312162455511&hvpos=&hvnetw=g&hvrand=659409593742978102&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029499&hvtargid=pla-301634461823&psc=1">Rich Dad Poor Dad</a>by Robert T. Kiyosaki<br>
 -<a href="https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331/ref=asc_df_1585424331/?tag=hyprod-20&linkCode=df0&hvadid=312009828129&hvpos=&hvnetw=g&hvrand=7344102581901237530&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029499&hvtargid=pla-406163951913&psc=1">Think and Grow Rich</a>by Napoleon Hill<br>
 
-
-Youtube Channels:
+Youtube Channels:<br>
 -<a href="https://www.youtube.com/c/RainIsHere">Rain is here financial buddy</a><br>
 -<a href="https://www.youtube.com/channel/UCmMnzrvnsSnv-0u9M1Rxiqw">The World Today</a><br>
--
 
 Resources:
 -<a href="https://finance.yahoo.com/">Yahoo Finance</a><br>
